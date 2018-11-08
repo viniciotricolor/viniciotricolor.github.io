@@ -1,12 +1,12 @@
 # Site settings
-title: personal blog Vinicio Henrique
-description: personal blog Vinicio Henrique
+title: Personal blog Vinicio Henrique
+description: Personal blog Vinicio Henrique
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "https://viniciotricolor.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Vinicio Henrique
-user_description: #
+user_description: oi
 user_title: Software Developer
 email: viniciotricolor@pm.me
 twitter_username: viniciotricolor
@@ -15,6 +15,6 @@ gplus_username:  viniciotricolor
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-128946895-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
